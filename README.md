@@ -6,7 +6,7 @@ My role was to support Rockbuster’s Business Intelligence team by loading thei
 
 ## Main Business Questions
 
-The Rockbuster Management Board wanted clear, data-driven answers to several strategic questions, including:
+### The Rockbuster Management Board wanted clear, data-driven answers to several strategic questions, including:
 
 Which films generated the highest and lowest revenue?
 
@@ -20,7 +20,7 @@ Do sales differ across regions?
 
 ## Project Overview
 
-Throughout this achievement, I worked through SQL step-by-step, building from basic queries to more advanced techniques to answer these questions. The analysis covers tasks such as:
+### Throughout this achievement, I worked through SQL step-by-step, building from basic queries to more advanced techniques to answer these questions. The analysis covers tasks such as:
 
 Exploring and understanding the database
 
@@ -36,7 +36,7 @@ The final output is a collection of queries and visualizations that explain the 
 
 ## Data
 
-The dataset includes Rockbuster’s:
+### The dataset includes Rockbuster’s:
 
 Customers
 
@@ -52,7 +52,7 @@ It’s a multi-table relational dataset (~3MB). I imported the data into Postgre
 
 ## Deliverables
 
-Over the course of the exercises, I produced:
+### Over the course of the exercises, I produced:
 
 SQL queries that answer each business question
 
